@@ -11,6 +11,11 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('about');
+// });
+
+Route::view('oldhome', 'old');
+Route::view('about', 'about');
+
+Route::view('/', 'welcome');
