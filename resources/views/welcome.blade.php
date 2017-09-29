@@ -52,32 +52,32 @@
         <div class="carousel-item active">
           <img class="first-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="First slide">
           <div class="container">
-            <div class="carousel-caption d-none d-md-block text-left">
+            <div class="carousel-caption d-block text-center">
               <h1>Finding great Tech help</h1>
               <p>Does it feel like reasonable, quality professional technical help is always out of reach?</p>
               <br><br>
 
-              <p><a id="btn-1" class="btn btn-lg btn-primary" data-slide-to="1" data-target="#myCarousel" href="#" role="button">Yes?</a></p>
+              <p><a id="btn-1" class="btn btn-lg btn-primary d-none d-md-block" data-slide-to="1" data-target="#myCarousel" href="#" role="button">Yes?</a></p>
             </div>
           </div>
         </div>
         <div class="carousel-item">
           <img class="second-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Second slide">
           <div class="container">
-            <div class="carousel-caption d-none d-md-block">
+            <div class="carousel-caption d-block">
               <h1>Trust</h1>
               <p>Are you BEHIND on the technical projects that will differentiate your company <br>because you don't have CONFIDENCE in the technical people you are using?</p>
-              <p><a id="btn-2" class="btn btn-lg btn-primary" href="#" data-slide-to="2" data-target="#myCarousel" role="button">Yes</a></p>
+              <p><a id="btn-2" class="btn btn-lg btn-primary d-none d-md-block" href="#" data-slide-to="2" data-target="#myCarousel" role="button">Yes</a></p>
             </div>
           </div>
         </div>
         <div class="carousel-item">
           <img class="third-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Third slide">
           <div class="container">
-            <div class="carousel-caption d-none d-md-block text-right">
+            <div class="carousel-caption d-block text-center">
               <h1>One more for good measure.</h1>
               <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-              <p><a id="btn-3" class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
+              <p><a id="btn-3" class="btn btn-lg btn-primary d-none d-md-block" href="#" role="button">Browse gallery</a></p>
             </div>
           </div>
         </div>
@@ -193,56 +193,63 @@
     
     <style>
         #btn-1{ position:absolute; top:125px; }​
+        .ctr{text-align: center;}
     </style>
+
+    <script src="js/detectmobilebrowser.js"></script>
+
     <script type="text/javascript">
         $( document ).ready(function() {
-            $('.marketing').hide();
-            $('body').css('background-color', '#282C31');
 
-            $('.carousel').carousel('pause');
+            if ( !jQuery.browser.mobile ) {
+                $('.marketing').hide();
+                $('body').css('background-color', '#282C31');
 
-            var counter = 0;
-            $('#btn-1').mouseover(function() {
-                switch(counter) {
-                    case 0:
-                        var newT = 450;
-                        var newL = 645;
-                        $('#btn-1').css('background-color', '#17028e');
-                        $('#btn-1').css('border', '1px solid #17028e');
-                        break;
-                    case 1:
-                        var newT = 510;
-                        var newL = 365;
-                        $('#btn-1').css('background-color', '#ff8800');
-                        $('#btn-1').css('border', '1px solid #ff8800');
-                        break;
-                    case 2:
-                        var newT = 430;
-                        var newL = 215;
-                        $('#btn-1').css('background-color', 'red');
-                        $('#btn-1').css('border', '1px solid red');
-                        break;
-                    default:
-                        $('.carousel').carousel('next')
-                }
-                $('#btn-1').offset({ top: newT, left: newL});
-                console.log("t="+newT+", l="+newL);
-                counter = counter + 1;
-            });
+                $('.carousel').carousel('pause');
 
-            $('#btn-1').click(function() {
-                $('.carousel').carousel('next');
-            });
+                var counter = 0;
+                $('#btn-1').mouseover(function() {
+                    switch(counter) {
+                        case 0:
+                            var newT = 450;
+                            var newL = 645;
+                            $('#btn-1').css('background-color', '#17028e');
+                            $('#btn-1').css('border', '1px solid #17028e');
+                            break;
+                        case 1:
+                            var newT = 510;
+                            var newL = 365;
+                            $('#btn-1').css('background-color', '#ff8800');
+                            $('#btn-1').css('border', '1px solid #ff8800');
+                            break;
+                        case 2:
+                            var newT = 430;
+                            var newL = 215;
+                            $('#btn-1').css('background-color', 'red');
+                            $('#btn-1').css('border', '1px solid red');
+                            break;
+                        default:
+                            $('.carousel').carousel('next')
+                    }
+                    $('#btn-1').offset({ top: newT, left: newL});
+                    console.log("t="+newT+", l="+newL);
+                    counter = counter + 1;
+                });
 
-            $('#btn-2').click(function() {
-                $('.carousel').carousel('next');
-            });
+                $('#btn-1').click(function() {
+                    $('.carousel').carousel('next');
+                });
 
-            $('#btn-3').click(function() {
-                $('.marketing').show();
-                $('html, body').animate({scrollTop: '+=500px'}, 800);
-                $('body').css('background-color', '#ffffff');
-            });
+                $('#btn-2').click(function() {
+                    $('.carousel').carousel('next');
+                });
+
+                $('#btn-3').click(function() {
+                    $('.marketing').show();
+                    $('html, body').animate({scrollTop: '+=500px'}, 800);
+                    $('body').css('background-color', '#ffffff');
+                });
+            };
 
         });
     </script>
