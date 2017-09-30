@@ -50,34 +50,34 @@
       </ol-->
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img class="first-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="First slide">
+          <img class="first-slide d-none d-md-inline-block" src="images/home/Happy-Small-Business-Owner.jpg" alt="First slide">
+          <img class="first-slide d-md-none d-inline-block" src="images/home/Happy-Small-Business-Owner-small.jpg" alt="First slide">
           <div class="container">
-            <div class="carousel-caption d-block text-center">
-              <h1>Finding great Tech help</h1>
-              <p>Does it feel like reasonable, quality professional technical help is always out of reach?</p>
-              <br><br>
-
-              <p><a id="btn-1" class="btn btn-lg btn-primary d-none d-md-block" data-slide-to="1" data-target="#myCarousel" href="#" role="button">Yes?</a></p>
+            <div class="carousel-caption d-block text-left">
+              <div style="height: 50px;" class="d-none d-md-inline-block"><h1 style="color: black;">Finding great Technical help</h1></div>
+              <p>Does it feel like reasonable, quality professional technical<br>help is always out of reach?</p>
+              <br>
+              <p><a style="margin-top: 10px;" id="btn-1" class="btn btn-lg btn-primary d-none d-md-inline-block" data-slide-to="1" data-target="#myCarousel" href="#" role="button">...</a></p>
             </div>
           </div>
         </div>
-        <div class="carousel-item">
+        <!--div class="carousel-item">
           <img class="second-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Second slide">
           <div class="container">
             <div class="carousel-caption d-block">
               <h1>Trust</h1>
               <p>Are you BEHIND on the technical projects that will differentiate your company <br>because you don't have CONFIDENCE in the technical people you are using?</p>
-              <p><a id="btn-2" class="btn btn-lg btn-primary d-none d-md-block" href="#" data-slide-to="2" data-target="#myCarousel" role="button">Yes</a></p>
+              <p><a id="btn-2" class="btn btn-lg btn-primary d-none d-md-inline-block" href="#" data-slide-to="2" data-target="#myCarousel" role="button">Yes</a></p>
             </div>
           </div>
-        </div>
+        </div-->
         <div class="carousel-item">
           <img class="third-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Third slide">
           <div class="container">
             <div class="carousel-caption d-block text-center">
-              <h1>One more for good measure.</h1>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-              <p><a id="btn-3" class="btn btn-lg btn-primary d-none d-md-block" href="#" role="button">Browse gallery</a></p>
+              <h1>TRUST</h1>
+              <p>Are you BEHIND on the technical projects that will differentiate your company <br>because you don't have CONFIDENCE in the technical people you are using?</p>
+              <p><a id="btn-3" class="btn btn-lg btn-primary d-none d-md-inline-block" href="#" role="button">Browse gallery</a></p>
             </div>
           </div>
         </div>
@@ -102,21 +102,21 @@
       <!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="col-lg-4">
-          <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-          <h2>Heading</h2>
-          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+          <img class="rounded-circle" src="images/home/businesswoman-140x140.jpg" alt="Generic placeholder image" width="140" height="140">
+          <h2><img class="logo30h" src="images/home/salesforce-logo-30x42.png" alt="Salesforce" />Salesforce</h2>
+          <p><span class="quotes">&ldquo;</span>Tim implemented our new Salesforce Lightning sales app on time and on budget.<span class="quotes">&rdquo;</span></p>
           <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-          <h2>Heading</h2>
-          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+          <img class="rounded-circle" src="images/home/frank-140x140.jpg" alt="Generic placeholder image" width="140" height="140">
+          <h2><img class="logo30h" src="images/home/Shopify-Logo-25x30.png" alt="Shopify" />Shopify</h2>
+          <p><span class="quotes">&ldquo;</span>A colleague I trust recommended Tim to me as honest, professional and reasonable, and that's exactly what I got.<span class="quotes">&ldquo;</span></p>
           <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-          <h2>Heading</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+          <img class="rounded-circle" src="images/home/businessman-140x140.jpeg" alt="Generic placeholder image" width="140" height="140">
+          <h2><img class="logo30h" src="images/home/agile-scrum-48x30.png" alt="Agile Scrum" />Agile</h2>
+          <p><span class="quotes">&ldquo;</span>Tim optimized our 3 virtual development teams, mentoring and optimizing agile and continuous delivery. We say drammatic improvements in overall efficiency and quality.<span class="quotes">&ldquo;</span></p>
           <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
@@ -194,6 +194,9 @@
     <style>
         #btn-1{ position:absolute; top:125px; }​
         .ctr{text-align: center;}
+        .carousel img { height: auto; }
+        .quotes{font-family: ariel; font-size: 20px;}
+        img.logo30h{position: relative; top: -4px; left: -2px;}
     </style>
 
     <script src="js/detectmobilebrowser.js"></script>
@@ -207,15 +210,15 @@
 
                 $('.carousel').carousel('pause');
 
-                var counter = 0;
+                var counter = 1;
                 $('#btn-1').mouseover(function() {
                     switch(counter) {
-                        case 0:
-                            var newT = 450;
-                            var newL = 645;
-                            $('#btn-1').css('background-color', '#17028e');
-                            $('#btn-1').css('border', '1px solid #17028e');
-                            break;
+                        // case 0:
+                        //     var newT = 450;
+                        //     var newL = 645;
+                        //     $('#btn-1').css('background-color', '#17028e');
+                        //     $('#btn-1').css('border', '1px solid #17028e');
+                        //     break;
                         case 1:
                             var newT = 510;
                             var newL = 365;
