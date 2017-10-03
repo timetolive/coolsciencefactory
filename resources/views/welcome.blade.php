@@ -54,7 +54,7 @@
           <img class="first-slide d-md-none d-inline-block" src="images/home/Happy-Small-Business-Owner-small.jpg" alt="Small Business Owner mobile">
           <div class="container">
             <div class="carousel-caption d-block text-left">
-              <div style="height: 50px;" class="d-none d-md-inline-block"><h1 style="color: black;">Finding great Technical help</h1></div>
+              <div style="height: 50px;" class="d-none d-md-block"><h1 style="color: black;">Finding great Technical help</h1></div>
               <p>Why does it always feel like quality, professional technical<br>help is just out of reach?</p>
               <br>
               <p><a style="margin-top: 10px;" id="btn-1" class="btn btn-lg btn-primary d-none d-md-inline-block" data-slide-to="1" data-target="#myCarousel" href="#" role="button">Why?</a></p>
@@ -76,7 +76,7 @@
           <img class="third-slide d-md-none d-inline-block" src="images/home/business-man-small.jpg" alt="Small Business Owner mobile">
           <div class="container">
             <div class="carousel-caption d-block text-left">
-              <div style="height: 50px;" class="d-none d-md-inline-block"><h1 style="color: black;">TRUST</h1></div>
+              <div style="height: 50px;" class="d-none d-md-block"><h1 style="color: black;">TRUST</h1></div>
               <p class="d-none d-md-inline-block">I need to know that my technical needs will be<br>met on time and on budget.</p>
               <div class="d-md-none d-inline-block bg-white">
                 <p class="text-black">I need to know that my<br>technical needs will be met<br>on time and on budget.</p>
@@ -195,9 +195,15 @@
     <script src="js/ie10-viewport-bug-workaround.js"></script>
     
     <style>
-        #btn-1{ position:absolute; top:125px; }​
-        .ctr{text-align: center;}
-        .carousel img { height: auto; }
+        #btn-1{
+            position:absolute; top:125px;
+        }​
+        .ctr{
+            text-align: center;
+        }
+        .carousel img {
+            height: auto;
+        }
         .quotes{
             font-family: ariel;
             font-size: 35px;
@@ -206,16 +212,21 @@
             padding: 1px;
         }
         .fixh {line-height: 25px;}
-        img.logo30h{position: relative; top: -4px; left: -2px;}
-        p.text-black{color: #000000;}
+        img.logo30h{
+            position: relative; 
+            top: -4px; left: -2px;
+        }
+        p.text-black{
+            color: #000000;
+        }
         div.bg-white {
             opacity: 0.75; 
             filter: alpha(opacity=75); /* For IE8 and earlier */
             margin: 2px;
             text-align: center;
-            border-radius: 5px;
-            -moz-border-radius: 5px;
-            -webkit-border-radius: 5px;
+            border-radius: 20px;
+            -moz-border-radius: 20px;
+            -webkit-border-radius: 20px;
         }
     </style>
 
