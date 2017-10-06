@@ -15,9 +15,9 @@
 //     return view('about');
 // });
 
-Route::view('oldhome', 'old');
+Route::view('oldhome', 'old/home');
 Route::view('about', 'about');
 Route::view('pricing', 'pages/pricing');
 
-// Route::view('/', 'pages/home');
-Route::view('/', 'pages/deleteme');
+Route::view('/', 'pages/home');
+// Route::view('/', 'pages/deleteme');
