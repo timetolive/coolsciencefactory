@@ -1,0 +1,40 @@
+
+/* Brand */
+
+.fcLight{
+    color: rgb(70, 178, 224);
+}
+.bcLight{
+    background-color: rgb(70, 178, 224);
+}
+
+.fcDark{
+    color: rgb(38, 104, 162);
+}
+.bcDark{
+    background-color: rgb(38, 104, 162);
+}
+
+.opLight {
+    opacity: 0.1;
+}
+
+.opMid {
+    opacity: 0.5;
+}
+
+.opDark {
+    opacity: 0.9;
+}
+
+/* Nav */
+
+.slogan{
+    position: absolute;
+    top: 36px;
+    /* left: 63px; */
+    font-size: 12px;
+    letter-spacing: 3.4px;
+    color: rgb(70, 178, 224);
+    /* color: rgb(38, 104, 162); */
+}

@@ -1,3 +1,7 @@
 .jumbotron {
-    background-color: #E9EDAA;
+    color: #fff;
+}
+
+.plan {
+    background-color: rgba(70, 178, 224, .1);
 }

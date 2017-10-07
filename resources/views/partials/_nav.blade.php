@@ -1,16 +1,9 @@
 
-<style>
-  .slogan{
-    position: absolute;
-    top: 36px;
-    left: 63px;
-    font-size: 12px;
-    color: rgb(70, 1787, 224);
-  }
-</style>
+<!-- Nav -->
+
       <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
         <a class="navbar-brand" href="/">Starboard Technology Partner</a>
-        <div class="slogan">We put the wind in your sails</div>
+        <div class="slogan bLight">We put the wind in your sails</div>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
