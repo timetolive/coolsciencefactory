@@ -7,7 +7,7 @@
  * http://jquery.org/license
  *
  * Date: Wed Jan 16 08:47:09 2013 -0600
- */
+ */ 
 (function( jQuery, undefined ) {
 
     var stepHooks = "backgroundColor borderBottomColor borderLeftColor borderRightColor borderTopColor color columnRuleColor outlineColor textDecorationColor textEmphasisColor",
