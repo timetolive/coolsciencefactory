@@ -1,0 +1,13 @@
+.jumbotron {
+    color: #fff;
+    padding-bottom: 20px;
+}
+
+.plan {
+    background-color: rgba(70, 178, 224, .1);
+}
+
+[class*="col-"] {
+    padding-left: 30px;
+    padding-right: 30px;
+}

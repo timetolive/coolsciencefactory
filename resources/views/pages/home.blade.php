@@ -29,7 +29,7 @@
           <div class="container">
             <div class="carousel-caption d-block text-left">
               <div class="d-none d-md-block"><h1 style="color: black;">Finding great Technical help</h1></div>
-              <p class="homeText">I really don't "get" technology.<br>Why does it always feel like quality, professional technical<br>help is just out of reach?</p>
+              <p class="homeText">Why does it always feel like quality, professional technical<br>help is just out of reach?</p>
               <br><br>
               <p><a style="margin-top: 10px;" id="btn-1" class="btn btn-lg btn-primary d-none d-md-inline-block" data-slide-to="1" data-target="#myCarousel" href="#" role="button">Why?</a></p>
             </div>
@@ -81,7 +81,11 @@
         <div class="col-md-7">
           <h2 class="featurette-heading">Don't just hire tech,<br><span class="text-muted">partner with tech.</span></h2>
           <p class="lead">
-            As your partner, we don't just take on projects; we'll be in it with you for the long haul. We internalize your mission and your vision so that we can avoid delays or cost overruns.  We will take your timelines and your budget as seriously as you do.
+            Good partnerships ensure alignment with your business objectives.  In order to position
+            your business out ahead of your competition, your tech partner needs to internalize your 
+            mission and goals, provide informed technical advice, and execute your technical vision
+            on time and within your budget.  A valued partner will earn your trust, and is in it
+            with you for the long haul.
             <br><br>
             Explore our <a href="/pricing">Partnership Pricing</a>
           </p>
@@ -99,7 +103,7 @@
         <div class="col-lg-4">
           <img class="rounded-circle" src="images/home/businesswoman-140x140.jpg" alt="Generic placeholder image" width="140" height="140">
           <h2><img class="logo30h" src="images/home/salesforce-logo-30x42.png" alt="Salesforce" />Salesforce</h2>
-          <p class="text-justify fixh"><span class="quotes">&ldquo;</span>They implemented our new Salesforce Lightning sales app on time and on budget. It's such a relief to have that feeling that they are in this with us.<span class="quotes">&rdquo;</span></p>
+          <p class="text-justify fixh"><span class="quotes">&ldquo;</span>Starboard developed a custom app to support our sales team in Salesforce Lightning on time and on budget. It's such a relief to have that feeling that they are in this with us.<span class="quotes">&rdquo;</span></p>
           <p><a class="btn btn-secondary" href="#" role="button">Salesforce Solutions &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
@@ -123,8 +127,16 @@
 
       <div class="row featurette">
         <div class="col-md-7 order-md-2">
-          <h2 class="featurette-heading">As a trusted partner, you can trust us to worry about the tech <span class="text-muted">You can focus on the rest of your business.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <h2 class="featurette-heading">We will earn your trust as a tech partner so you can<br><span class="text-muted">focus on your business.</span></h2>
+          <p class="lead">
+            Since 2005, Starboard has been helping small-mid sized businesses shape and implement their 
+            technical visions.  Through Starboard and through leadership roles in other organizations,
+            Starboard's team has partnered with and worked to make large and small businesses to grow their 
+            businesses:<br>
+            GE Appliances, Local Motors, Berklee Online College, PaineWebber Properties, Specialized Applications,
+            Smarter Travel, essential.com, The Boston Company, NYNEX, HomeSmart, Intellisoft, CareNet,
+            Gulbrandsen, IoT Systems, Balour Designs, Divorcepartner, Siemens, Autodesk, OnShape, 
+          </p>
         </div>
         <div class="col-md-5 order-md-1">
           <img class="featurette-image img-fluid mx-auto" src="images/home/Success-500x500.jpg" alt="Your Success">
@@ -136,10 +148,12 @@
       <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">Give us a <span class="text-muted">test-drive.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <p class="lead">
+            Take a look at our <a href="/pricing">partnership pricing</a>, or try one of our special <a href="/intro">introductory offers</a>.
+          </p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+          <img class="featurette-image img-fluid mx-auto" src="images/home/Success-500x500.jpg" alt="Give us a test drive">
         </div>
       </div>
 

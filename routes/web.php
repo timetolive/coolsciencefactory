@@ -18,6 +18,7 @@
 Route::view('oldhome', 'old/home');
 Route::view('about', 'about');
 Route::view('pricing', 'pages/pricing');
+Route::view('intro', 'pages/intro');
 
 Route::view('/', 'pages/home');
 // Route::view('/', 'pages/deleteme');
