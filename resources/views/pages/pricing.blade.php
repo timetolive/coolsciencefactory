@@ -23,7 +23,12 @@
           Our goal is to establish a win-win relationship with our clients by establishing long-term 
           partnerships based on trust.  Our clients expect us to understand their goals, not just carry out
           instructions, and to make their budgets and schedules a priority.  Our partnership model is 
-          designed to establish this relationship up front.  
+          designed to establish this relationship up front.
+          <br><br>
+          <span class="h4 typeface-italic">We Guarantee Your Satisfaction</span>! 
+          if you are unsatisfied at any point during your first partner contract, you may break the contract at any 
+          point and your payment for unused hours will be refunded, no penalties, no questions asked!
+          <a id="partnerPlans">&nbsp;</a>
         </p>
         <!--p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p-->
       </div>
@@ -110,33 +115,52 @@
         <div class="col-md-4 plan">
           <h2>Time &amp; Materials (T&amp;M)</h2>
           <p>
-            T&amp;M projects will usually be scoped to make sure that all project expectations are clear
-            to all stakeholders.
+            Outside of a partner agreement, T&amp;M projects are by far the most flexible and cost 
+            the least for an overall project.  In order to get more flexibility and better rates, refer
+            to our <a href="#partnerPlans">Partner Plans</a>.
             <ul>
-              <li>Strategy: $150/hr</li>
-              <li>Team or Project Management: $120/hr</li>
-              <li>Code or Systems Architecture: $120/hr</li>
-              <li>Salesforce Lightning Programming: $125/hr</li>
-              <li>Shopify Liquid Programming: $110/hr</li>
+              <li>Strategy, architecture and project management: $150/hr</li>
+              <li>Programming, database, other technical: $115/hr</li>
+            </ul>
+            <ul>
+              <li>Payment terms: $500 or $1,000 retainer to commence, remainder billed each week net 15 days</li>
             </ul>
           </p>
-          <p><a class="btn btn-secondary" href="#" role="button">Learn More &raquo;</a></p>
+          <p><a class="btn btn-secondary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Inquire about T&amp;M &raquo;</a></p>
         </div>
         <div class="col-md-4 plan">
           <h2>Capped T&amp;M</h2>
           <p>
             If risks are acceptable, we may allow a T&amp;M project to be capped so the project costs 
-            do not exceed a pre-determined amount.  The cap will be assessed per project as a fixed 
-            maximum estimate, calculated with respect to risks.  Since this method shifts the project 
-            risk to us, there will be a contract prior to beginning that clearly identifies project 
-            deliverables to protect against "scope creep".
+            do not exceed a pre-determined amount (the "cap").  As a result of the risk that the cap imposes
+            on Starboard, the finished project cost is higher than the same project billed as T&amp;M.
+            <ul>
+              <li>Rates are the same as the T&amp;A rates.</li>
+              <li>Capped T&amp;M projects include an additional up front billable effort to clarify the deliverables in the contract.</li>
+              <li>Capped T&amp;M projects also include additional buffer hours which offset Starboard's risk imposed by the cap.</li>
+              <li>Change orders will need to be drafted for each new effort, whether a new feature request, additional design iteration, etc.</li>
+              <li>Change orders will be priced using the T&amp;A rates.</li>
+              <li>Payment terms: 30% of cap at project start (which also includes the buffer hours), remainder billed each week, net 15 days</li>
+            </ul>
           </p>
-          <p><a class="btn btn-secondary" href="#" role="button">Learn More &raquo;</a></p>
+          <p><a class="btn btn-secondary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Inquire about Capped T&amp;M &raquo;</a></p>
        </div>
         <div class="col-md-4 plan">
-          <h2>Fixed</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-          <p><a class="btn btn-secondary" href="#" role="button">Learn More &raquo;</a></p>
+          <h2>Fixed Price</h2>
+          <p>
+            If risks are acceptable, we may allow a Fixed Price project.  A Fixed Price project is 
+            guaranteed to cost a pre-determined price based on Starboard's assessment, and Starboard 
+            assumes the risks of unexpected project cost increases (excluding change orders). As a result, 
+            the finished project cost is higher than the same project billed as T&amp;M or Capped T&amp;M.
+            <ul>
+              <li>Fixed Price projects include an additional up front billable effort to clarify the deliverables in the contract.</li>
+              <li>Fixed Price projects should be expected to cost more for the entire project than the same project done using T&amp;M.</li>
+              <li>Change orders will need to be drafted for each new effort, whether a new feature request, additional design iteration, etc.</li>
+              <li>Change orders will be priced using the T&amp;A rates.</li>
+              <li>Payment terms: 50% of project up front, remainder billed each week, net 15 days</li>
+            </ul>
+          </p>
+          <p><a class="btn btn-secondary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Inquire about a Fixed Price roject &raquo;</a></p>
         </div>
       </div>
 
