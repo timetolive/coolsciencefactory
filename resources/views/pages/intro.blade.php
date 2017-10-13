@@ -1,6 +1,6 @@
 @extends('main')
 
-@section('title', '| Pricing')
+@section('title', '| Pricing - Introductory Offer')
 
 @section('pricingActive', 'active')
 

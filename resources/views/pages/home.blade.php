@@ -79,12 +79,12 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Don't just hire tech,<br><span class="text-muted">partner with tech.</span></h2>
+          <h2 class="featurette-heading">Don't just buy tech,<br><span class="text-muted font-italic">partner with tech.</span></h2>
           <p class="lead">
             Good partnerships ensure alignment with your business objectives.  In order to position
             your business out ahead of your competition, your tech partner needs to internalize your 
             mission and goals, provide informed technical advice, and execute your technical vision
-            on time and within your budget.  A valued partner will earn your trust, and is in it
+            on time and within your budget.  A valued partner will earn your trust, and will be in it
             with you for the long haul.
             <br><br>
             Explore our <a href="/pricing">Partnership Pricing</a>
@@ -103,19 +103,19 @@
         <div class="col-lg-4">
           <img class="rounded-circle" src="images/home/businesswoman-140x140.jpg" alt="Generic placeholder image" width="140" height="140">
           <h2><img class="logo30h" src="images/home/salesforce-logo-30x42.png" alt="Salesforce" />Salesforce</h2>
-          <p class="text-justify fixh"><span class="quotes">&ldquo;</span>Starboard developed a custom app to support our sales team in Salesforce Lightning on time and on budget. It's such a relief to have that feeling that they are in this with us.<span class="quotes">&rdquo;</span></p>
+          <p class="text-justify fixh"><span class="quotes">&ldquo;</span>Starboard developed a custom Salesforce Lightning app to support our sales team on time and on budget. It's such a relief to have that feeling that they are in this with us.<span class="quotes">&rdquo;</span></p>
           <p><a class="btn btn-secondary" href="#" role="button">Salesforce Solutions &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="rounded-circle" src="images/home/frank-140x140.jpg" alt="Generic placeholder image" width="140" height="140">
           <h2><img class="logo30h" src="images/home/Shopify-Logo-25x30.png" alt="Shopify" />Shopify</h2>
-          <p class="text-justify fixh"><span class="quotes">&ldquo;</span>A colleague I trust recommended Starboard to me as honest, professional and reasonable, and that's exactly what I got. I can relax knowing that I can trust them as a business partner.  It frees up time to focus on other parts of my business, among other things.<span class="quotes">&rdquo;</span></p>
+          <p class="text-justify fixh"><span class="quotes">&ldquo;</span>A trusted colleague recommended Starboard to me for their honesty, professionalism and reasonable pricing, and that's exactly what I got. Now I can relax knowing that I can trust them as a business partner, and that frees up time so I can focus on more important parts of my business, among other things.<span class="quotes">&rdquo;</span></p>
           <p><a class="btn btn-secondary" href="#" role="button">Shopify Solutions &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="rounded-circle" src="images/home/businessman-140x140.jpeg" alt="Generic placeholder image" width="140" height="140">
           <h2><img class="logo30h" src="images/home/agile-scrum-48x30.png" alt="Agile Scrum" />Agile</h2>
-          <p class="text-justify fixh"><span class="quotes">&ldquo;</span>They managed our three virtual development teams, mentoring and optimizing agile and continuous delivery. We say drammatic improvements in overall efficiency and quality.<span class="quotes">&rdquo;</span></p>
+          <p class="text-justify fixh"><span class="quotes">&ldquo;</span>They managed our three virtual development teams, mentoring and optimizing our agile and continuous delivery processes. We saw drammatic improvements in overall efficiency and quality.<span class="quotes">&rdquo;</span></p>
           <p><a class="btn btn-secondary" href="#" role="button">Agile Solutions &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
@@ -127,19 +127,17 @@
 
       <div class="row featurette">
         <div class="col-md-7 order-md-2">
-          <h2 class="featurette-heading">We will earn your trust as a tech partner so you can<br><span class="text-muted">focus on your business.</span></h2>
+          <h2 class="featurette-heading">We will earn your <strong>trust</strong> as a tech partner so you can<br><span class="text-muted">focus on your business.</span></h2>
           <p class="lead">
-            Since 2005, Starboard has been helping small-mid sized businesses shape and implement their 
-            technical visions.  Through Starboard and through leadership roles in other organizations,
-            Starboard's team has partnered with and worked to make large and small businesses to grow their 
-            businesses:<br>
-            GE Appliances, Local Motors, Berklee Online College, PaineWebber Properties, Specialized Applications,
-            Smarter Travel, essential.com, The Boston Company, NYNEX, HomeSmart, Intellisoft, CareNet,
-            Gulbrandsen, IoT Systems, Balour Designs, Divorcepartner, Siemens, Autodesk, OnShape, 
+            Starboard has been helping small and mid sized businesses shape and implement their 
+            technical visions since 2005.
+            <br><br>
+            The current Starboard team has personally performed work for and partnered with 
+            these organizations through Starboard or previous positions.
           </p>
         </div>
         <div class="col-md-5 order-md-1">
-          <img class="featurette-image img-fluid mx-auto" src="images/home/Success-500x500.jpg" alt="Your Success">
+          <img class="featurette-image img-fluid mx-auto" src="images/home/logos_150x150.png" alt="Your Success">
         </div>
       </div>
 

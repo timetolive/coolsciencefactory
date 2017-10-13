@@ -32,6 +32,7 @@
 .slogan{
     position: absolute;
     top: 36px;
+    width: 270px;
     /* left: 63px; */
     font-size: 12px;
     letter-spacing: 3.4px;

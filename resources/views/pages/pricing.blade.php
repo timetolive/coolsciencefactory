@@ -47,94 +47,53 @@
                 at a reduced rate of $110 per hour.</li>
             </ul>
           </p>
-          <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-secondary" href="#" role="button">Learn More &raquo;</a></p>
         </div>
         <div class="col-md-4 plan">
           <h2>QUARTERBACK</h2>
           <p>
-            The QUARTERBACK partnership provides <strong>managed outsourced development</strong>, 
-            including Business Analysis &amp; Requirements, Bidding, Project Managing development schedules
-            and costs, Code Reviewing to ensure quality and adequate documentation, installation and 
+            The QUARTERBACK partnership provides <strong>managed outsourced development</strong>. Package 
+            includes on-site Business Analysis &amp; Requirements, Bidding, Project Managing development 
+            schedules and costs, Reviewing Code to ensure quality and adequate documentation, installation and 
             support of developed systems and apps.
           </p>
-          <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+            <ul>
+              <li>Retainer: $2,000 increments, 20% off published rates</li>
+              <li>Retainer: $5,000 increments, 30% off published rates</li>
+              <li>Retainer: $10,000 increments, 50% off published rates</li>
+              <li>
+                If contact hours are used prematurely, the contract can roll into a new contract of 
+                less than 3 months, or hours can be purchased a la carte avainst the existing contract
+                at a reduced rate of $110 per hour.</li>
+            </ul>
+          <p><a class="btn btn-secondary" href="#" role="button">Learn More &raquo;</a></p>
        </div>
         <div class="col-md-4 plan">
           <h2>WIDE RECEIVER</h2>
           <p>
-            The QUARTERBACK partnership provides <strong>onshore Programming &amp; Implementations</strong>, 
+            The WIDE RECEIVER partnership provides <strong>onshore Programming &amp; Implementations</strong>, 
             including Architecture, Business Analysis, Hosting set-up and maintenance, Conversions, Reporting
             and Training.
           </p>
-          <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-secondary" href="#" role="button">Learn More &raquo;</a></p>
         </div>
       </div>
-
+    </div>
 
 
     <!-- Offers -->
     <div class="container">
       <br><br>
-      <h1 class="display-6">Introductory offers</h1>
+      <h1 class="display-6">Introductory offers!</h1>
       <p>
         A partnership is an investment.  If you are looking to understand the value of partnering with us, 
-        you are welcome to try one of these starter offers:
+        you are welcome to try one of our <a href="\intro">introductory offers</a>:
       </p>
-      <!--p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p-->
+      <p><a class="btn btn-secondary" href="/intro" role="button">View introductory offers! &raquo;</a></p>
 
-      <div class="row">
-        <div class="col-md-4 plan">
-          <h2>Wordpress Website</h2>
-          <p>
-            For $350 we will set up a Wordpress website for you hosted on Wordpress.com.  We'll do the 
-            work setting it up and show you how to use it.  We'll help you to pick a template, but this 
-            does not include customizations or selecting/generating content, but we'll guide you on how
-            to do that.
-            <ul>
-              <li>Assistance buying and using a domain</li>
-              <li>Showing you template options and installing a template</li>
-              <li>Training on how to add your content and company pages</li>
-              <li>Installing basic plugin for SEO and website security</li>
-              <li>Discussing app add-on options for future enhancements</li>
-            </ul>
-          </p>
-          <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
-        </div>
-        <div class="col-md-4 plan">
-          <h2>Shopify Store</h2>
-          <p>
-            For $350 we will set you up with a Shopify account, website, and walk you through setting up 
-            all of your settings. We'll help you to pick a template, but this does not include 
-            customizations or selecting/generating content, but we'll guide you on how to do that.
-            <ul>
-              <li>1Assistance buying and using a domain</li>
-              <li>Showing you template options and installing a template</li>
-              <li>Training on how to add your content and company pages</li>
-              <li>Walking through setup options, sich as taxation, shipping, etc.</li>
-              <li>Discussing plugin options for future enhancements</li>
-            </ul>
-          </p>
-          <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
-        </div>
-        <div class="col-md-4 plan">
-          <h2>Strategic Consultation</h2>
-          <p>
-            This one's on the house! We will give you one hour to discuss topics relating to navigating solutions for 
-            your tech needs.  While this is "giving away the farm", we see it as an investment.  The way we
-            see this, the more people we help early on, the more our mission of providing a true partnership
-            based on trust and competence will be known.  Topics of interest for past clients have been:
-            <ul>
-              <li>Overview of SEO and Web Marketing</li>
-              <li>Ballpark time and cost for implementation of the tech portion of your vision</li>
-              <li>Options and consequences of making tech decisions, including hosting, outsourcing, hiring, etc.</li>
-              <li>Overview of Agile and Scrum to manage lean, rapid development</li>
-              <li>Figuring out your MVP (Minimum Viable Product)</li>
-            </ul>
-          </p>
-          <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
-        </div>
     </div>
-
+    
+    <hr>
 
     <!-- Other options -->
     <div class="container">
@@ -159,7 +118,7 @@
               <li>Shopify Liquid Programming: $110/hr</li>
             </ul>
           </p>
-          <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-secondary" href="#" role="button">Learn More &raquo;</a></p>
         </div>
         <div class="col-md-4 plan">
           <h2>Capped T&amp;M</h2>
@@ -170,12 +129,12 @@
             risk to us, there will be a contract prior to beginning that clearly identifies project 
             deliverables to protect against "scope creep".
           </p>
-          <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-secondary" href="#" role="button">Learn More &raquo;</a></p>
        </div>
         <div class="col-md-4 plan">
           <h2>Fixed</h2>
           <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-          <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-secondary" href="#" role="button">Learn More &raquo;</a></p>
         </div>
       </div>
 
