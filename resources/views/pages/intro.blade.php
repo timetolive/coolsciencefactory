@@ -18,7 +18,7 @@
       <div class="container">
         <h1 class="display-3 opMid d-none d-sm-inline">Introductory offers</h1>
         <h1 class="display-5 opMid d-inline d-sm-none">Introductory offers</h1>
-        <br>
+        <br><br>
         <p>
           A partnership is an investment.  If you are looking to understand the value of partnering with us, 
           you are welcome to try one of these starter offers:  

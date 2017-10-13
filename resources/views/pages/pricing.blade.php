@@ -18,6 +18,7 @@
       <div class="container">
         <h1 class="display-3 opMid d-none d-sm-inline">Philosophy</h1>
         <h1 class="display-4 opMid d-inline d-sm-none">Philosophy</h1>
+        <br><br>
         <p>
           Our goal is to establish a win-win relationship with our clients by establishing long-term 
           partnerships based on trust.  Our clients expect us to understand their goals, not just carry out
