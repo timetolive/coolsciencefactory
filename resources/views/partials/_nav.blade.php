@@ -4,7 +4,7 @@
       <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
         <a class="navbar-brand d-inline d-sm-none" href="/">Starboard Technology</a>
         <a class="navbar-brand d-none d-sm-inline" href="/">Starboard Technology Partner</a>
-        <div class="slogan bLight d-inline d-sm-none">We put the wind in your sails</div>
+        <div class="slogan bLight d-none d-sm-inline">We put the wind in your sails</div>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
