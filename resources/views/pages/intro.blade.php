@@ -16,7 +16,8 @@
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron bcDark">
       <div class="container">
-        <h1 class="display-3 opMid">Introductory offers</h1>
+        <h1 class="display-3 opMid d-none d-sm-inline">Introductory offers</h1>
+        <h1 class="display-4 opMid d-inline d-sm-none">Introductory offers</h1>
         <br>
         <p>
           A partnership is an investment.  If you are looking to understand the value of partnering with us, 
@@ -34,7 +35,7 @@
         <div class="col-md-4 plan">
           <h2>Wordpress Website</h2>
           <p class="text-justify">
-            For $350 we will set up a Wordpress website for you hosted on Wordpress.com.  We'll do the 
+            For <span class="fcDark font-weight-bold h4">$350</span> we will set up a Wordpress website for you hosted on Wordpress.com.  We'll do the 
             work setting it up and show you how to use it.  We'll help you to pick a template, but this 
             does not include customizations or selecting/generating content, but we'll guide you on how
             to do that.
@@ -46,12 +47,12 @@
             <li>Installing basic plugin for SEO and website security</li>
             <li>Discussing app add-on options for future enhancements</li>
             </ul>
-          <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-secondary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Let's get started! &raquo;</a></p>
         </div>
         <div class="col-md-4 plan">
           <h2>Shopify Store</h2>
           <p class="text-justify">
-            For $350 we will set you up with a Shopify account, website, and walk you through setting up 
+            For <span class="fcDark font-weight-bold h4">$350</span> we will set you up with a Shopify account, website, and walk you through setting up 
             all of your settings. We'll help you to pick a template, but this does not include 
             customizations or selecting/generating content, but we'll guide you on how to do that.
           </p>
@@ -62,12 +63,13 @@
             <li>Walking through setup options, sich as taxation, shipping, etc.</li>
             <li>Discussing plugin options for future enhancements</li>
           </ul>
-          <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-secondary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Let's get started! &raquo;</a></p>
         </div>
         <div class="col-md-4 plan">
           <h2>Strategic Consultation</h2>
           <p class="text-justify">
-            This one's on the house! We will give you one hour to discuss topics relating to navigating solutions for 
+            This one's on the house! For <span class="fcDark font-weight-bold h4">Free</span>, we will give 
+            you 25 minutes to discuss topics relating to navigating solutions for 
             your tech needs.  While this is "giving away the farm", we see it as an investment.  The way we
             see this, the more people we help early on, the more our mission of providing a true partnership
             based on trust and competence will be known.  Topics of interest for past clients have been:
@@ -79,7 +81,7 @@
             <li>Overview of Agile and Scrum to manage lean, rapid development</li>
             <li>Figuring out your MVP (Minimum Viable Product)</li>
           </ul>
-          <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-secondary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Schedule free consultation &raquo;</a></p>
         </div>
     </div>
 
