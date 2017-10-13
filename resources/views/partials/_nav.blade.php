@@ -2,7 +2,7 @@
 <!-- Nav -->
 
       <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-        <a class="navbar-brand" href="/">Starboard Technology</a>
+        <a class="navbar-brand" href="/">Starboard Technology Partner</a>
         <!--div class="slogan bLight">We put the wind in your sails</div-->
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
