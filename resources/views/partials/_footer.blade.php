@@ -1,11 +1,52 @@
-
-      <!-- FOOTER -->
-      <footer>
-        <p class="float-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2017 Starboard Technology &middot; <a href="#">Contact</a> <!--&middot; <a href="#">Terms</a></p-->
-      </footer>
-
     </div><!-- /.container -->
+
+    <!-- FOOTER -->
+    <footer id="myFooter">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-sm-4 myCols">
+                    <h5>About</h5>
+                    <ul>
+                        <!--li><a href="/team">Team</a></li-->
+                        <li><a href="/pricing">Pricing</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-4 myCols">
+                    <h5>Get started</h5>
+                    <ul>
+                        <li><a href="http://starboardtechnology.setmore.com" target="_blank">Schedule free consultation</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-4 myCols">
+                    <h5>Contact us</h5>
+                    <ul>
+                        <li><strong>Phone:</strong> <a class="fcLight" href="tel:+16028883039">(602) 888-3039</a></li>
+                        <li><strong>Email:</strong> <a class="fcLight" href="mailto:inquire@imstarboard.com">inquire@imstarboard.com</a></li>
+                    </ul>
+                </div>
+                <!--div class="col-sm-3 myCols">
+                    <h5>Legal</h5>
+                    <ul>
+                        <li><a href="#">Terms of Service</a></li>
+                        <li><a href="#">Terms of Use</a></li>
+                        <li><a href="#">Privacy Policy</a></li>
+                    </ul>
+                </div-->
+            </div>
+        </div>
+        <!--div class="social-networks">
+            <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
+            <a href="https://www.facebook.com/Starboard-Technology-Consulting-1082769775126293/" target="_blank" class="facebook"><i class="fa fa-facebook-official"></i></a>
+            <a href="#" class="google"><i class="fa fa-google-plus"></i></a>
+        </div-->
+        <div class="footer-copyright ">
+            &copy; 2017 Starboard Technology Consulting &nbsp; &middot; &nbsp; 
+            <a href="https://www.facebook.com/Starboard-Technology-Consulting-1082769775126293/" target="_blank" class="facebook"><i class="fa fa-facebook-official"></i></a>
+        </div>
+    </footer>
+
+
 
 
     <!-- Bootstrap core JavaScript

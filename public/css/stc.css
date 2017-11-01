@@ -32,10 +32,10 @@
 .slogan{
     position: absolute;
     top: 36px;
-    width: 270px;
+    width: 285px;
     /* left: 63px; */
     font-size: 12px;
-    letter-spacing: 3.4px;
+    letter-spacing: 4.1px;
     color: rgb(70, 178, 224);
     /* color: rgb(38, 104, 162); */
 }
@@ -47,4 +47,10 @@
     width: 270px;
     font-size: 12px;
     color: rgb(70, 178, 224);
+}
+
+#myFooter .myCols {
+    background-color: #383737;
+    border: none;
+    font-size: 12px;
 }

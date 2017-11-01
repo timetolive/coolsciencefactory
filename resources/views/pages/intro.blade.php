@@ -35,7 +35,7 @@
         <div class="col-md-4 plan">
           <h2>Wordpress Website</h2>
           <p class="text-justify">
-            For <span class="fcDark font-weight-bold h4">$350</span> we will set up a Wordpress website for you hosted on Wordpress.com.  We'll do the 
+            For <a href="http://starboardtechnology.setmore.com" target="_blank" class="fcDark font-weight-bold h4">$350</a> we will set up a Wordpress website for you hosted on Wordpress.com.  We'll do the 
             work setting it up and show you how to use it.  We'll help you to pick a template, but this 
             does not include customizations or selecting/generating content, but we'll guide you on how
             to do that.
@@ -52,7 +52,7 @@
         <div class="col-md-4 plan">
           <h2>Shopify Store</h2>
           <p class="text-justify">
-            For <span class="fcDark font-weight-bold h4">$350</span> we will set you up with a Shopify account, website, and walk you through setting up 
+            For <a href="http://starboardtechnology.setmore.com" target="_blank" class="fcDark font-weight-bold h4">$350</a> we will set you up with a Shopify account, website, and walk you through setting up 
             all of your settings. We'll help you to pick a template, but this does not include 
             customizations or selecting/generating content, but we'll guide you on how to do that.
           </p>
@@ -85,7 +85,18 @@
         </div>
     </div>
 
+    <hr>
 
+    <!-- Offers -->
+    <div class="container">
+      <br><br>
+      <h1 class="display-6">Pricing</h1>
+      <p>
+        Take a look at out Partnership and a-la-carte <a href="\pricing">pricing</a>.
+      </p>
+
+    </div>
+    
     <hr>
 
     @endsection

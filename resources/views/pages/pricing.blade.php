@@ -16,8 +16,8 @@
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron bcDark">
       <div class="container">
-        <h1 class="display-3 opMid d-none d-sm-inline">Philosophy</h1>
-        <h1 class="display-4 opMid d-inline d-sm-none">Philosophy</h1>
+        <h1 class="display-3 opMid d-none d-sm-inline">Pricing Philosophy</h1>
+        <h1 class="display-4 opMid d-inline d-sm-none">Pricing Philosophy</h1>
         <br><br>
         <p>
           Our goal is to establish a win-win relationship with our clients by establishing long-term 
@@ -54,7 +54,7 @@
                 at a reduced rate of $110 per hour.</li>
             </ul>
           </p>
-          <p><a class="btn btn-secondary" href="#" role="button">Learn More &raquo;</a></p>
+          <p><a class="btn btn-secondary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Learn More &raquo;</a></p>
         </div>
         <div class="col-md-4 plan">
           <h2>QUARTERBACK</h2>
@@ -73,7 +73,7 @@
                 less than 3 months, or hours can be purchased a la carte avainst the existing contract
                 at a reduced rate of $110 per hour.</li>
             </ul>
-          <p><a class="btn btn-secondary" href="#" role="button">Learn More &raquo;</a></p>
+          <p><a class="btn btn-secondary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Learn More &raquo;</a></p>
        </div>
         <div class="col-md-4 plan">
           <h2>WIDE RECEIVER</h2>
@@ -82,7 +82,7 @@
             including Architecture, Business Analysis, Hosting set-up and maintenance, Conversions, Reporting
             and Training.
           </p>
-          <p><a class="btn btn-secondary" href="#" role="button">Learn More &raquo;</a></p>
+          <p><a class="btn btn-secondary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Learn More &raquo;</a></p>
         </div>
       </div>
     </div>
