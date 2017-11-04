@@ -11,7 +11,12 @@
 .fcDark{
     color: rgb(38, 104, 162);
 }
-.bcDark{
+
+.bcLight, .btn-secondary:hover{
+    background-color: rgb(70, 178, 224);
+}
+
+.bcDark, .btn-secondary{
     background-color: rgb(38, 104, 162);
 }
 
@@ -53,4 +58,13 @@
     background-color: #383737;
     border: none;
     font-size: 12px;
+}
+
+/* Button conventions */
+.btn-secondary:hover{
+    background-color: rgb(70, 178, 224);
+}
+
+.bcDark, .btn-secondary{
+    background-color: rgb(38, 104, 162);
 }

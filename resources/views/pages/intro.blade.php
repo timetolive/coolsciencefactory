@@ -47,7 +47,7 @@
             <li>Installing basic plugin for SEO and website security</li>
             <li>Discussing app add-on options for future enhancements</li>
             </ul>
-          <p><a class="btn btn-secondary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Let's get started! &raquo;</a></p>
+          <p><a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Let's get started! &raquo;</a></p>
         </div>
         <div class="col-md-4 plan">
           <h2>Shopify Store</h2>
@@ -63,7 +63,7 @@
             <li>Walking through setup options, sich as taxation, shipping, etc.</li>
             <li>Discussing plugin options for future enhancements</li>
           </ul>
-          <p><a class="btn btn-secondary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Let's get started! &raquo;</a></p>
+          <p><a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Let's get started! &raquo;</a></p>
         </div>
         <div class="col-md-4 plan">
           <h2>Strategic Consultation</h2>
@@ -81,7 +81,7 @@
             <li>Overview of Agile and Scrum to manage lean, rapid development</li>
             <li>Figuring out your MVP (Minimum Viable Product)</li>
           </ul>
-          <p><a class="btn btn-secondary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Schedule free consultation &raquo;</a></p>
+          <p><a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Schedule free consultation &raquo;</a></p>
         </div>
     </div>
 

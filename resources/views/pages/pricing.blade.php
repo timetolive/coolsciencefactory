@@ -54,7 +54,8 @@
                 at a reduced rate of $110 per hour.</li>
             </ul>
           </p>
-          <p><a class="btn btn-secondary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Learn More &raquo;</a></p>
+          <div class="padd25"></div>
+          <p class="p-program"><a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Learn More &raquo;</a></p>
         </div>
         <div class="col-md-4 plan">
           <h2>QUARTERBACK</h2>
@@ -64,17 +65,18 @@
             schedules and costs, Reviewing Code to ensure quality and adequate documentation, installation and 
             support of developed systems and apps.
           </p>
-            <ul>
-              <li>Retainer: $2,000 increments, 20% off published rates</li>
-              <li>Retainer: $5,000 increments, 30% off published rates</li>
-              <li>Retainer: $10,000 increments, 50% off published rates</li>
-              <li>
-                If contact hours are used prematurely, the contract can roll into a new contract of 
-                less than 3 months, or hours can be purchased a la carte avainst the existing contract
-                at a reduced rate of $110 per hour.</li>
-            </ul>
-          <p><a class="btn btn-secondary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Learn More &raquo;</a></p>
-       </div>
+          <ul>
+            <li>Retainer: $2,000 increments, 20% off published rates</li>
+            <li>Retainer: $5,000 increments, 30% off published rates</li>
+            <li>Retainer: $10,000 increments, 50% off published rates</li>
+            <li>
+              If contact hours are used prematurely, the contract can roll into a new contract of 
+              less than 3 months, or hours can be purchased a la carte avainst the existing contract
+              at a reduced rate of $110 per hour.</li>
+          </ul>
+          <div class="padd25"></div>
+          <p class="p-program"><a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Learn More &raquo;</a></p>
+        </div>
         <div class="col-md-4 plan">
           <h2>WIDE RECEIVER</h2>
           <p>
@@ -82,7 +84,7 @@
             including Architecture, Business Analysis, Hosting set-up and maintenance, Conversions, Reporting
             and Training.
           </p>
-          <p><a class="btn btn-secondary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Learn More &raquo;</a></p>
+          <p class="p-program"><a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Learn More &raquo;</a></p>
         </div>
       </div>
     </div>
@@ -96,7 +98,7 @@
         A partnership is an investment.  If you are looking to understand the value of partnering with us, 
         you are welcome to try one of our <a href="\intro">introductory offers</a>:
       </p>
-      <p><a class="btn btn-secondary" href="/intro" role="button">View introductory offers! &raquo;</a></p>
+      <p><a class="btn btn-primary" href="/intro" role="button">View introductory offers! &raquo;</a></p>
 
     </div>
     
@@ -112,7 +114,7 @@
       </p>
 
       <div class="row">
-        <div class="col-md-4 plan">
+        <div class="col-md-4 plan rel">
           <h2>Time &amp; Materials (T&amp;M)</h2>
           <p>
             Outside of a partner agreement, T&amp;M projects are by far the most flexible and cost 
@@ -126,7 +128,8 @@
               <li>Payment terms: $500 or $1,000 retainer to commence, remainder billed each week net 15 days</li>
             </ul>
           </p>
-          <p><a class="btn btn-secondary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Inquire about T&amp;M &raquo;</a></p>
+          <div class="padd25"></div>
+          <p class="p-program"><a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Inquire about T&amp;M &raquo;</a></p>
         </div>
         <div class="col-md-4 plan">
           <h2>Capped T&amp;M</h2>
@@ -143,7 +146,8 @@
               <li>Payment terms: 30% of cap at project start (which also includes the buffer hours), remainder billed each week, net 15 days</li>
             </ul>
           </p>
-          <p><a class="btn btn-secondary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Inquire about Capped T&amp;M &raquo;</a></p>
+          <div class="padd25"></div>
+          <p class="p-program"><a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Inquire about Capped T&amp;M &raquo;</a></p>
        </div>
         <div class="col-md-4 plan">
           <h2>Fixed Price</h2>
@@ -160,7 +164,8 @@
               <li>Payment terms: 50% of project up front, remainder billed each week, net 15 days</li>
             </ul>
           </p>
-          <p><a class="btn btn-secondary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Inquire about a Fixed Price roject &raquo;</a></p>
+          <div class="padd25"></div>
+          <p class="p-program"><a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Inquire about a Fixed Price roject &raquo;</a></p>
         </div>
       </div>
 
