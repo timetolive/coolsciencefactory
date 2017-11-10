@@ -10,7 +10,8 @@
 @endsection
 
 @section('scripts')
-    <script src="js/vendor/jquery.color-2.1.2.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+    <!--script src="js/vendor/jquery.color-2.1.2.js"></script-->
     <script src="js/home.js"></script>
 @endsection
 
