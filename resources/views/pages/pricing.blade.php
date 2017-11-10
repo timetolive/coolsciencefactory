@@ -41,49 +41,74 @@
 
       <div class="row">
         <div class="col-md-4 plan">
-          <h2>COACH</h2>
-          <p>
-            The COACH partnership provides your executive team with <strong>CIO level strategy</strong>,
-            insight and advice on a regular basis at a small fraction of the cost of hiring your own.
-            <ul>
-              <li>Contract: 3 month minimum, $5,000</li>
-              <li>Includes 50 hours (between 7 - 8 hours per week) for meetings, planning, presenatations, etc.</li>
-              <li>
-                If contact hours are used prematurely, the contract can roll into a new contract of 
-                less than 3 months, or hours can be purchased a la carte avainst the existing contract
-                at a reduced rate of $110 per hour.</li>
-            </ul>
-          </p>
-          <div class="padd25"></div>
-          <p class="p-program"><a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Learn More &raquo;</a></p>
-        </div>
-        <div class="col-md-4 plan">
           <h2>QUARTERBACK</h2>
           <p>
-            The QUARTERBACK partnership provides <strong>managed outsourced development</strong>. Package 
-            includes on-site Business Analysis &amp; Requirements, Bidding, Project Managing development 
-            schedules and costs, Reviewing Code to ensure quality and adequate documentation, installation and 
-            support of developed systems and apps.
+            The QUARTERBACK partnership provides your executive team with <strong>CIO-level Strategy</strong>,
+            insight and advice on a regular basis at a small fraction of the cost of hiring your own.  
           </p>
+          <p>Deliverables include:</p>
           <ul>
-            <li>Retainer: $2,000 increments, 20% off published rates</li>
-            <li>Retainer: $5,000 increments, 30% off published rates</li>
-            <li>Retainer: $10,000 increments, 50% off published rates</li>
+            <li>Strategic dicussions and meetings</li>
+            <li>plans &amp; processes</li>
+            <li>assessments</li>
+            <li>hiring, organizing &amp; managing tech staff</li>
+            <li>etc.</li>
+          </ul>
+          <p>Partnership Arrangement:</p>
+          <ul>
+            <li>Contract: 3 month minimum (50 hrs)</li>
+            <li>Typical arrangement: between 7 - 8 hrs/wk</li>
             <li>
-              If contact hours are used prematurely, the contract can roll into a new contract of 
-              less than 3 months, or hours can be purchased a la carte avainst the existing contract
-              at a reduced rate of $110 per hour.</li>
+              If contact hours are used prematurely, Additional hours can be purchased at the contract rate through the end of the contract period.</li>
           </ul>
           <div class="padd25"></div>
           <p class="p-program"><a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Learn More &raquo;</a></p>
         </div>
+
         <div class="col-md-4 plan">
-          <h2>WIDE RECEIVER</h2>
+          <h2>RUNNING BACK</h2>
           <p>
-            The WIDE RECEIVER partnership provides <strong>onshore Programming &amp; Implementations</strong>, 
+            The RUNNING BACK partnership provides development by <strong>Senior Onshore Engineers</strong>, 
             including Architecture, Business Analysis, Hosting set-up and maintenance, Conversions, Reporting
             and Training.
           </p>
+          <p>Deliverables include:</p>
+          <ul>
+            <li>On-site business analysis &amp; requirements</li>
+            <li>Scheduling and budgeting</li>
+            <li>Project management</li>
+            <li>Personally reviewing all code and architecture</li>
+            <li>Ensure quality, scalability, and documentation</li>
+            <li>Installation and support</li>
+          </ul>
+          <p>Partnership Arrangement:</p>
+          <ul>
+            <li>Tiered discount based on retainer level</li>
+            <li>15% off a-la-carte rates: $2,000</li>
+            <li>20% off a-la-carte rates: $5,000</li>
+            <li>30% off a-la-carte rates: $10,000</li>
+          </ul>
+          <div class="padd25"></div>
+
+          <p class="p-program"><a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Learn More &raquo;</a></p>
+        </div>
+
+        <div class="col-md-4 plan">
+          <h2>WIDE RECEIVER</h2>
+          <p>
+            The WIDE RECEIVER partnership provides <strong>Managed Outsourced Development</strong>.  Ideal for 
+            discrete efforts on a tight budget.
+          </p>
+          <p>Deliverables include:</p>
+          <ul>
+            <li>Same deliverables as RUNNING BACK plan, but using onshore senior engineers</li>
+          </ul>
+          <p>Partnership Arrangement:</p>
+          <ul>
+            <li>Same tiered retainers as RUNNING BACK</li>
+            <li>Additional 50% off programming done off-shore</li>
+          </ul>
+          <div class="padd25"></div>
           <p class="p-program"><a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Learn More &raquo;</a></p>
         </div>
       </div>
@@ -117,55 +142,59 @@
         <div class="col-md-4 plan rel">
           <h2>Time &amp; Materials (T&amp;M)</h2>
           <p>
-            Outside of a partner agreement, T&amp;M projects are by far the most flexible and cost 
-            the least for an overall project.  In order to get more flexibility and better rates, refer
-            to our <a href="#partnerPlans">Partner Plans</a>.
-            <ul>
-              <li>Strategy, architecture and project management: $150/hr</li>
-              <li>Programming, database, other technical: $115/hr</li>
-            </ul>
-            <ul>
-              <li>Payment terms: $500 or $1,000 retainer to commence, remainder billed each week net 15 days</li>
-            </ul>
+            There are many reasons you may choose to hire us by the hour.
+          </p>
+          <p>Rate Tiers:</p>
+          <ol>
+            <li>Strategy, architecture and project mgt</li>
+            <li>Programming, database, other technical</li>
+          </ol>
+          <ul>
+            <li>Payment terms: small retainer to commence, remainder billed each week net 15 days</li>
+          </ul>
+          <p>
+            However, for a technology partnership that aligns your technology needs with your business 
+            strategies, providing for more flexibility and better rates, refer to our 
+            <a href="#partnerPlans">Partner Plans</a>.
           </p>
           <div class="padd25"></div>
-          <p class="p-program"><a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Inquire about T&amp;M &raquo;</a></p>
+          <p class="p-program"><a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Inquire about a T&amp;M effort &raquo;</a></p>
         </div>
         <div class="col-md-4 plan">
           <h2>Capped T&amp;M</h2>
           <p>
-            If risks are acceptable, we may allow a T&amp;M project to be capped so the project costs 
-            do not exceed a pre-determined amount (the "cap").  As a result of the risk that the cap imposes
-            on Starboard, the finished project cost is higher than the same project billed as T&amp;M.
-            <ul>
-              <li>Rates are the same as the T&amp;A rates.</li>
-              <li>Capped T&amp;M projects include an additional up front billable effort to clarify the deliverables in the contract.</li>
-              <li>Capped T&amp;M projects also include additional buffer hours which offset Starboard's risk imposed by the cap.</li>
-              <li>Change orders will need to be drafted for each new effort, whether a new feature request, additional design iteration, etc.</li>
-              <li>Change orders will be priced using the T&amp;A rates.</li>
-              <li>Payment terms: 30% of cap at project start (which also includes the buffer hours), remainder billed each week, net 15 days</li>
-            </ul>
+            For <strong>discrete projects with limited risk</strong>, we may agree to agree to cap a T&amp;M
+            contract project such that the cost of the project will not exceed a pre-determined maximum
+            for the project.  Capping the project cost transfers all of the financial risk to Starboard, 
+            and as a result, the finished project cost will be slightly higher than the same project 
+            billed as T&amp;M.
           </p>
+          <p>Additional Features Of Capped T&amp;M Projects:</p>
+          <ul>
+            <li>Rates are the same as the T&amp;M rates.</li>
+            <li>Capped T&amp;M projects include a small up-front cost which offsets Starboard's risk 
+              imposed by the cap.</li>
+            <li>Capped T&amp;M Projects employ strict change management.</li>
+            <li>Payment terms: 20% of cap at project start, remainder billed each week, net 15 days</li>
+          </ul>
           <div class="padd25"></div>
-          <p class="p-program"><a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Inquire about Capped T&amp;M &raquo;</a></p>
+          <p class="p-program"><a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Inquire about a Capped T&amp;M project &raquo;</a></p>
        </div>
         <div class="col-md-4 plan">
           <h2>Fixed Price</h2>
           <p>
-            If risks are acceptable, we may allow a Fixed Price project.  A Fixed Price project is 
-            guaranteed to cost a pre-determined price based on Starboard's assessment, and Starboard 
-            assumes the risks of unexpected project cost increases (excluding change orders). As a result, 
-            the finished project cost is higher than the same project billed as T&amp;M or Capped T&amp;M.
-            <ul>
-              <li>Fixed Price projects include an additional up front billable effort to clarify the deliverables in the contract.</li>
-              <li>Fixed Price projects should be expected to cost more for the entire project than the same project done using T&amp;M.</li>
-              <li>Change orders will need to be drafted for each new effort, whether a new feature request, additional design iteration, etc.</li>
-              <li>Change orders will be priced using the T&amp;A rates.</li>
-              <li>Payment terms: 50% of project up front, remainder billed each week, net 15 days</li>
-            </ul>
+            Also for <strong>discrete projects with limited risk</strong>, we may agree offer you a 
+            Fixed Price for the project. This type of project contract offers you a known cost for a known 
+            deliverable.
           </p>
+          <p>Additional Features Of Fixed Price Projects:</p>
+          <ul>
+            <li>Capped T&amp;M Projects employ strict change management.</li>
+            <li>Change orders will be priced using the T&amp;A rates.</li>
+            <li>Payment terms: 30% of project up front, remainder billed based on project milestones, net 15 days</li>
+          </ul>
           <div class="padd25"></div>
-          <p class="p-program"><a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Inquire about a Fixed Price roject &raquo;</a></p>
+          <p class="p-program"><a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Inquire about a Fixed Price project &raquo;</a></p>
         </div>
       </div>
 

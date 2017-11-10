@@ -13,10 +13,15 @@
     margin-left: 23px;
 }
 
+.padd25{
+    margin-bottom: 50px;
+}
+
 .rel{
     position: relative;
 }
 
-.padd25{
-    margin-bottom: 50px;
+.botto{
+    position: absolute;
+    bottom: 0;
 }

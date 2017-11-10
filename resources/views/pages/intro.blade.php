@@ -35,7 +35,7 @@
         <div class="col-md-4 plan">
           <h2>Wordpress Website</h2>
           <p class="text-justify">
-            For <a href="http://starboardtechnology.setmore.com" target="_blank" class="fcDark font-weight-bold h4">$350</a> we will set up a Wordpress website for you hosted on Wordpress.com.  We'll do the 
+            For <a href="http://starboardtechnology.setmore.com" target="_blank" class="fcDark font-weight-bold h4">$395</a> we will set up a Wordpress website for you hosted on Wordpress.com.  We'll do the 
             work setting it up and show you how to use it.  We'll help you to pick a template, but this 
             does not include customizations or selecting/generating content, but we'll guide you on how
             to do that.
@@ -47,12 +47,13 @@
             <li>Installing basic plugin for SEO and website security</li>
             <li>Discussing app add-on options for future enhancements</li>
             </ul>
-          <p><a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Let's get started! &raquo;</a></p>
+          <div class="padd25"></div>
+          <p class="p-program"><a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Let's get started! &raquo;</a></p>
         </div>
         <div class="col-md-4 plan">
           <h2>Shopify Store</h2>
           <p class="text-justify">
-            For <a href="http://starboardtechnology.setmore.com" target="_blank" class="fcDark font-weight-bold h4">$350</a> we will set you up with a Shopify account, website, and walk you through setting up 
+            For <a href="http://starboardtechnology.setmore.com" target="_blank" class="fcDark font-weight-bold h4">$395</a> we will set you up with a Shopify account, website, and walk you through setting up 
             all of your settings. We'll help you to pick a template, but this does not include 
             customizations or selecting/generating content, but we'll guide you on how to do that.
           </p>
@@ -63,25 +64,27 @@
             <li>Walking through setup options, sich as taxation, shipping, etc.</li>
             <li>Discussing plugin options for future enhancements</li>
           </ul>
-          <p><a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Let's get started! &raquo;</a></p>
+          <div class="padd25"></div>
+          <p class="p-program"><a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Let's get started! &raquo;</a></p>
         </div>
         <div class="col-md-4 plan">
           <h2>Strategic Consultation</h2>
           <p class="text-justify">
             This one's on the house! For <span class="fcDark font-weight-bold h4">Free</span>, we will give 
-            you 25 minutes to discuss topics relating to navigating solutions for 
-            your tech needs.  While this is "giving away the farm", we see it as an investment.  The way we
-            see this, the more people we help early on, the more our mission of providing a true partnership
-            based on trust and competence will be known.  Topics of interest for past clients have been:
+            you 25 minutes to discuss topics relating to navigating solutions for your tech needs.  
+            Our mission of providing a true partnership is based on trust and competence, and the best way
+            for people to obtain that trust with us is to make it possible for them to try us!
+            Strategic consultations for past clients have included:
           </p>
           <ul>
-            <li>Overview of SEO and Web Marketing</li>
-            <li>Ballpark time and cost for implementation of the tech portion of your vision</li>
-            <li>Options and consequences of making tech decisions, including hosting, outsourcing, hiring, etc.</li>
-            <li>Overview of Agile and Scrum to manage lean, rapid development</li>
+            <li>Time and cost guestimates for implementing your company vision</li>
+            <li>Options (and consequences) of fundamental tech decisions</li>
+            <li>Overview of Agile and Scrum</li>
             <li>Figuring out your MVP (Minimum Viable Product)</li>
+            <li>Overview of SEO and Web Marketing</li>
           </ul>
-          <p><a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Schedule free consultation &raquo;</a></p>
+          <div class="padd25"></div>
+          <p class="p-program"><a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Schedule free consultation &raquo;</a></p>
         </div>
     </div>
 
@@ -92,7 +95,7 @@
       <br><br>
       <h1 class="display-6">Pricing</h1>
       <p>
-        Take a look at out Partnership and a-la-carte <a href="\pricing">pricing</a>.
+        For partnership and a-la-carte pricing, take a look at our <a href="\pricing">pricing page</a>.
       </p>
 
     </div>
