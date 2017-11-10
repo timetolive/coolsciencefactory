@@ -26,9 +26,9 @@ $( document ).ready(function() {
                     break;
                 default:
                     $('.carousel').carousel('next');
-                    $('.marketing').fadeIn(4000);
                     $('body').animate({backgroundColor: "#fff"}, 2000);
-                    $('body').css('background-color', '#ffffff');
+                    $('.marketing').fadeIn(4000);
+                    //$('body').css('background-color', '#ffffff');
             }
             $('#btn-1').offset({ top: newT, left: newL});
             counter = counter + 1;
