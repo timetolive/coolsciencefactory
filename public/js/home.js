@@ -25,7 +25,7 @@ $( document ).ready(function() {
                     $('#btn-1').css('border', '1px solid red');
                     break;
                 default:
-                    $('.carousel').carousel('next');
+                    //$('.carousel').carousel('next');
                     //$('.marketing').fadeIn(4000);
                     $('body').animate({backgroundColor: "#fff"}, 2000);
             }
