@@ -20,8 +20,8 @@
         <h1 class="display-5 opMid d-inline d-sm-none">Introductory offers</h1>
         <br><br>
         <p>
-          A partnership is an investment.  If you are looking to understand the value of partnering with us, 
-          you are welcome to try one of these starter offers:  
+          A partnership is an investment, and sometimes you need to start out small.  Try one of these 
+          introductory offers to get to know the value of partnering with us first-hand, or visit our <a class="text-warning" href="/pricing">pricing and information page</a> about becoming a Starboard Partner.
         </p>
         <!--p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p-->
       </div>

@@ -101,7 +101,7 @@
           </p>
           <p>Deliverables include:</p>
           <ul>
-            <li>Same deliverables as RUNNING BACK plan, but using onshore senior engineers</li>
+            <li>Same deliverables as RUNNING BACK plan, but programming using offshore developers</li>
           </ul>
           <p>Partnership Arrangement:</p>
           <ul>
