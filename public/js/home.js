@@ -28,7 +28,6 @@ $( document ).ready(function() {
                     $('.carousel').carousel('next');
                     $('.marketing').fadeIn(4000);
                     $('body').animate({backgroundColor: "#fff"}, 2000);
-                    $('body').animate({backgroundColor: "#fff"}, 2000);
             }
             $('#btn-1').offset({ top: newT, left: newL});
             counter = counter + 1;
