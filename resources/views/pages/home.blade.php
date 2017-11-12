@@ -158,7 +158,11 @@
         <div class="col-md-7">
           <h2 class="featurette-heading">Give us a <span class="text-muted">test-drive.</span></h2>
           <p class="lead">
-            Take a look at our <a href="/pricing">partnership pricing</a>, or try one of our special <a href="/intro">introductory offers</a>.
+            Take a look at our <a href="/pricing">partnership pricing</a>, or try one of our special<br>
+            <a href="/intro">introductory offers</a>.
+          </p>
+          <p>
+            <a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Schedule a call now</a> or call us today at <a href="tel+16028883039">(602) 888-3039</a>.
           </p>
         </div>
         <div class="col-md-5">

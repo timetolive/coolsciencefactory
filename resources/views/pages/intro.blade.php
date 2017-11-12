@@ -32,41 +32,7 @@
     <div class="container">
 
       <div class="row">
-        <div class="col-md-4 plan">
-          <h2>Wordpress Website</h2>
-          <p class="text-justify">
-            For <a href="http://starboardtechnology.setmore.com" target="_blank" class="fcDark font-weight-bold h4">$395</a> we will set up a Wordpress website for you hosted on Wordpress.com.  We'll do the 
-            work setting it up and show you how to use it.  We'll help you to pick a template, but this 
-            does not include customizations or selecting/generating content, but we'll guide you on how
-            to do that.
-          </p>
-          <ul>
-            <li>Assistance buying and using a domain</li>
-            <li>Showing you template options and installing a template</li>
-            <li>Training on how to add your content and company pages</li>
-            <li>Installing basic plugin for SEO and website security</li>
-            <li>Discussing app add-on options for future enhancements</li>
-            </ul>
-          <div class="padd25"></div>
-          <p class="p-program"><a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Let's get started! &raquo;</a></p>
-        </div>
-        <div class="col-md-4 plan">
-          <h2>Shopify Store</h2>
-          <p class="text-justify">
-            For <a href="http://starboardtechnology.setmore.com" target="_blank" class="fcDark font-weight-bold h4">$395</a> we will set you up with a Shopify account, website, and walk you through setting up 
-            all of your settings. We'll help you to pick a template, but this does not include 
-            customizations or selecting/generating content, but we'll guide you on how to do that.
-          </p>
-          <ul>
-            <li>Assistance buying and using a domain</li>
-            <li>Showing you template options and installing a template</li>
-            <li>Training on how to add your content and company pages</li>
-            <li>Walking through setup options, sich as taxation, shipping, etc.</li>
-            <li>Discussing plugin options for future enhancements</li>
-          </ul>
-          <div class="padd25"></div>
-          <p class="p-program"><a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Let's get started! &raquo;</a></p>
-        </div>
+
         <div class="col-md-4 plan">
           <h2>Strategic Consultation</h2>
           <p class="text-justify">
@@ -86,6 +52,44 @@
           <div class="padd25"></div>
           <p class="p-program"><a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Schedule free consultation &raquo;</a></p>
         </div>
+
+        <div class="col-md-4 plan">
+          <h2>Shopify Store</h2>
+          <p class="text-justify">
+            For <a href="http://starboardtechnology.setmore.com" target="_blank" class="fcDark font-weight-bold h4">$395</a> we will set you up with a Shopify account, website, and walk you through setting up 
+            all of your settings. We'll help you to pick a template, but this does not include 
+            customizations or selecting/generating content, but we'll guide you on how to do that.
+          </p>
+          <ul>
+            <li>Assistance buying and using a domain</li>
+            <li>Showing you template options and installing a template</li>
+            <li>Training on how to add your content and company pages</li>
+            <li>Walking through setup options, sich as taxation, shipping, etc.</li>
+            <li>Discussing plugin options for future enhancements</li>
+          </ul>
+          <div class="padd25"></div>
+          <p class="p-program"><a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Let's get started! &raquo;</a></p>
+        </div>
+
+        <div class="col-md-4 plan">
+          <h2>Wordpress Website</h2>
+          <p class="text-justify">
+            For <a href="http://starboardtechnology.setmore.com" target="_blank" class="fcDark font-weight-bold h4">$395</a> we will set up a Wordpress website for you hosted on Wordpress.com.  We'll do the 
+            work setting it up and show you how to use it.  We'll help you to pick a template, but this 
+            does not include customizations or selecting/generating content, but we'll guide you on how
+            to do that.
+          </p>
+          <ul>
+            <li>Assistance buying and using a domain</li>
+            <li>Showing you template options and installing a template</li>
+            <li>Training on how to add your content and company pages</li>
+            <li>Installing basic plugin for SEO and website security</li>
+            <li>Discussing app add-on options for future enhancements</li>
+            </ul>
+          <div class="padd25"></div>
+          <p class="p-program"><a class="btn btn-primary" href="http://starboardtechnology.setmore.com" target="_blank" role="button">Let's get started! &raquo;</a></p>
+        </div>
+
     </div>
 
     <hr>
