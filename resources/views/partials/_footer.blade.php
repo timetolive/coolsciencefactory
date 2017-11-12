@@ -8,8 +8,9 @@
                 <div class="col-sm-4 myCols">
                     <h5>About</h5>
                     <ul>
-                        <!--li><a href="/team">Team</a></li-->
+                        <li><a href="/#experience">Experience</a></li>
                         <li><a href="/pricing">Pricing</a></li>
+                        <li><a href="/intro">Special Offers</a></li>
                     </ul>
                 </div>
                 <div class="col-sm-4 myCols">

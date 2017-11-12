@@ -88,7 +88,7 @@
             on time and within your budget.  A valued partner will earn your trust, and will be in it
             with you for the long haul.
             <br><br>
-            Explore our <a href="/pricing">Partnership Pricing</a>
+            Explore our <a href="/pricing">Partnership Pricing</a>.
           </p>
         </div>
         <div class="col-md-5">
@@ -106,21 +106,21 @@
           <img class="rounded-circle" src="images/home/frank-140x140.jpg" alt="Generic placeholder image" width="140" height="140">
           <h2><img class="logo30h" src="images/home/Shopify-Logo-25x30.png" alt="Shopify" />Shopify</h2>
           <p class="text-justify fixh"><span class="quotes">&ldquo;</span>A trusted colleague recommended Starboard to me for their honesty, professionalism and reasonable pricing, and that's exactly what I got. Now I can relax knowing that I can trust them as a partner, and that frees up time so I can focus on more important parts of my business, among other things.<span class="quotes">&rdquo;</span></p>
-          <p><a class="btn btn-secondary" href="/intro" role="button">Shopify Solutions &raquo;</a></p>
+          <p><a class="btn btn-primary" href="/intro" role="button">Shopify Solutions &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         
         <div class="col-lg-4">
           <img class="rounded-circle" src="images/home/businessman-140x140.jpeg" alt="Generic placeholder image" width="140" height="140">
           <h2><img class="logo30h" src="images/home/agile-scrum-48x30.png" alt="Agile Scrum" />Agile</h2>
           <p class="text-justify fixh"><span class="quotes">&ldquo;</span>They managed our three virtual development teams, mentoring and optimizing our agile and continuous delivery processes. We saw drammatic improvements in overall efficiency and quality.<span class="quotes">&rdquo;</span></p>
-          <p><a class="btn btn-secondary" href="/intro" role="button">Agile Solutions &raquo;</a></p>
+          <p><a class="btn btn-primary" href="/intro" role="button">Agile Solutions &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
 
         <div class="col-lg-4">
           <img class="rounded-circle" src="images/home/businesswoman-140x140.jpg" alt="Generic placeholder image" width="140" height="140">
           <h2><img class="logo30h" src="images/home/wordpress-30x30.png" alt="Wordpress" />Wordpress</h2>
           <p class="text-justify fixh"><span class="quotes">&ldquo;</span>Starboard developed a custom Wordpress site for our business on time and on budget. It's such a relief to have that feeling that they are in this with us.<span class="quotes">&rdquo;</span></p>
-          <p><a class="btn btn-secondary" href="/intro" role="button">Wordpress Solutions &raquo;</a></p>
+          <p><a class="btn btn-primary" href="/intro" role="button">Wordpress Solutions &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
 
@@ -128,12 +128,13 @@
           <img class="rounded-circle" src="images/home/businesswoman-140x140.jpg" alt="Generic placeholder image" width="140" height="140">
           <h2><img class="logo30h" src="images/home/salesforce-logo-30x42.png" alt="Salesforce" />Salesforce</h2>
           <p class="text-justify fixh"><span class="quotes">&ldquo;</span>Starboard developed a custom Salesforce Lightning app to support our sales team on time and on budget. It's such a relief to have that feeling that they are in this with us.<span class="quotes">&rdquo;</span></p>
-          <p><a class="btn btn-secondary" href="#" role="button">Salesforce Solutions &raquo;</a></p>
+          <p><a class="btn btn-primary" href="#" role="button">Salesforce Solutions &raquo;</a></p>
         </div>
       </div-->
 
       <!-- START THE FEATURETTES -->
 
+      <a name="experience"></a>
       <hr class="featurette-divider">
 
       <div class="row featurette">
